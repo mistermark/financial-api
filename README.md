@@ -1,6 +1,6 @@
 # financial-api
 
-An Opendata financial API
+An Opendata financial API that allows you to programatically access structured financial information.
 
 ## Resources (WIP)
 
